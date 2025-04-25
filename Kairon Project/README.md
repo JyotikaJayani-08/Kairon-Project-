@@ -1,3 +1,4 @@
+
 # README.md
 # KAIRON: Deep Research AI Agentic System
 
@@ -138,6 +139,13 @@ self.tools = [get_tavily_tool(), get_new_tool()]
 | Message format errors | Ensure inputs are strings, tuples, or BaseMessage |
 | API connection issues | Verify .env file exists with valid keys |
 | ModuleNotFoundError | Run `pip install -r requirements.txt` |
+
+
+
+### Output 
+![output ](https://github.com/user-attachments/assets/7f27735e-bc1c-4665-af72-1d6a57bcd100)
+
+
 
 ## Roadmap 🗺️
 - [ ] Add PDF/arXiv research capabilities
