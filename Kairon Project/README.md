@@ -1,5 +1,4 @@
 
-# README.md
 # KAIRON: Deep Research AI Agentic System
 
 ## Overview
