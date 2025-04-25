@@ -31,7 +31,7 @@ A LangChain-powered AI research assistant that automates:
 ## Installation ⚙️
 
 # Clone repository
-git clone https://github.com/yourusername/research-agent.git
+git clone https://github.com/JyotikaJayani-08/Kairon-Project.git
 cd research-agent
 
 # Install dependencies
